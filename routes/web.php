@@ -2,17 +2,71 @@
 
 use Illuminate\Support\Facades\Route;
 
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
-|
-*/
 
-Route::get('/', function () {
-    return view('welcome');
+
+Route::get('/', function(){
+    return view('index');
+});
+
+Route::get('about-2', function(){
+    return view('about-2');
+});
+
+
+Route::get('blog-2', function(){
+    return view('blog-2');
+});
+Route::get('blog-details', function(){
+    return view('blog-details');
+});
+Route::get('blog', function(){
+    return view('blog');
+});
+Route::get('contact', function(){
+    return view('contact');
+});
+Route::get('faq', function(){
+    return view('faq');
+});
+Route::get('home-2', function(){
+    return view('home-2');
+});
+Route::get('home-3', function(){
+    return view('home-3');
+});
+Route::get('home-4', function(){
+    return view('home-4');
+});
+Route::get('home-5', function(){
+    return view('home-5');
+});
+Route::get('home-6', function(){
+    return view('home-6');
+});
+
+Route::get('home-7', function(){
+    return view('home-7');
+});
+Route::get('portfolio', function(){
+    return view('portfolio');
+});
+Route::get('portfolio-details', function(){
+    return view('portfolio-details');
+});
+Route::get('price', function(){
+    return view('price');
+});
+Route::get('process', function(){
+    return view('process');
+});
+Route::get('service-details', function(){
+    return view('service-details');
+});
+Route::get('team', function(){
+    return view('team');
+});
+
+
+Route::get('about', function(){
+    return view('about');
 });

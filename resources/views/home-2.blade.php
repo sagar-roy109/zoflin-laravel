@@ -29,14 +29,14 @@
             </div>
         </div>
         <!-- Preloader -->
-        
+
         <!-- Header  -->
         <header class="l-header active t-bg-light border-bottom">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-7 col-lg-3 col-xl-2">
                         <div class="brand">
-                            <a href="index.html" class="t-link">
+                            <a href="/" class="t-link">
                                 <img
                                     src="assets/img/logo.png"
                                     alt="zolfin"
@@ -67,7 +67,7 @@
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="index.html"
+                                                href="/"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page
@@ -75,7 +75,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-2.html"
+                                                href="home-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 2
@@ -83,7 +83,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-3.html"
+                                                href="home-3"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 3
@@ -91,7 +91,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-4.html"
+                                                href="home-4"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 4
@@ -99,7 +99,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-5.html"
+                                                href="home-5"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 5
@@ -107,7 +107,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-6.html"
+                                                href="home-6"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 6
@@ -115,7 +115,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-7.html"
+                                                href="home-7"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 7
@@ -132,7 +132,7 @@
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="portfolio.html"
+                                                href="portfolio"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                            portfolio
@@ -140,7 +140,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="portfolio-details.html"
+                                                href="portfolio-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 portfolio details
@@ -158,7 +158,7 @@
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="service-details.html"
+                                                href="service-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 service details
@@ -185,7 +185,7 @@
                                                     class="zol-menu__sub-2-list-2"
                                                 >
                                                     <a
-                                                        href="about.html"
+                                                        href="about"
                                                         class="t-link zol-menu__sub-2-link-2"
                                                     >
                                                         about us
@@ -195,7 +195,7 @@
                                                     class="zol-menu__sub-2-list-2"
                                                 >
                                                     <a
-                                                        href="about-2.html"
+                                                        href="about-2"
                                                         class="t-link zol-menu__sub-2-link-2"
                                                     >
                                                         about company
@@ -205,7 +205,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="blog-details.html"
+                                                href="blog-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog details
@@ -213,7 +213,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="price.html"
+                                                href="price"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 price table
@@ -221,7 +221,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="faq.html"
+                                                href="faq"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 FAQ
@@ -229,7 +229,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="team.html"
+                                                href="team"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 team member
@@ -237,7 +237,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="process.html"
+                                                href="process"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 our process
@@ -245,7 +245,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="404.html"
+                                                href="404"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 404
@@ -264,7 +264,7 @@
                                             class="zol-menu__sub-list"
                                         >
                                             <a
-                                                href="blog.html"
+                                                href="blog"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog
@@ -274,7 +274,7 @@
                                             class="zol-menu__sub-list"
                                         >
                                             <a
-                                                href="blog-2.html"
+                                                href="blog-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog with sidebar
@@ -282,7 +282,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="blog-2.html"
+                                                href="blog-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog sidebar
@@ -292,7 +292,7 @@
                                 </li>
                                 <li class="zol-menu__list">
                                     <a
-                                        href="contact.html"
+                                        href="contact"
                                         class="t-link zol-menu__link"
                                         >contact us</a
                                     >
@@ -523,7 +523,7 @@
                                         </a>
                                     </h5>
                                     <p>
-                                        Lorem ipsum doloramet, consectetur adipiscing elit sed 
+                                        Lorem ipsum doloramet, consectetur adipiscing elit sed
                                     </p>
                                     <a href="#" class="t-link t-link--alpha cards__footer-link">
                                         <span class="cards__footer-icon">
@@ -548,7 +548,7 @@
                                         </a>
                                     </h5>
                                     <p>
-                                        Lorem ipsum doloramet, consectetur adipiscing elit sed 
+                                        Lorem ipsum doloramet, consectetur adipiscing elit sed
                                     </p>
                                     <a href="#" class="t-link t-link--alpha cards__footer-link">
                                         <span class="cards__footer-icon">
@@ -573,7 +573,7 @@
                                         </a>
                                     </h5>
                                     <p>
-                                        Lorem ipsum doloramet, consectetur adipiscing elit sed 
+                                        Lorem ipsum doloramet, consectetur adipiscing elit sed
                                     </p>
                                     <a href="#" class="t-link t-link--alpha cards__footer-link">
                                         <span class="cards__footer-icon">
@@ -598,7 +598,7 @@
                                         </a>
                                     </h5>
                                     <p>
-                                        Lorem ipsum doloramet, consectetur adipiscing elit sed 
+                                        Lorem ipsum doloramet, consectetur adipiscing elit sed
                                     </p>
                                     <a href="#" class="t-link t-link--alpha cards__footer-link">
                                         <span class="cards__footer-icon">
@@ -817,7 +817,7 @@
         <div class="t-bg-light-grad t-pt-120 t-pb-120" >
             <div class="container position-relative">
                 <div class="row" >
-                    
+
                     <div class="col-md-10 col-lg-6">
                         <span class="t-text-alpha xsm-text text-uppercase">
                             for your team
@@ -846,7 +846,7 @@
                     <img src="assets/img/effecient-img.png" alt="zolfin" class="img-fluid">
                 </div>
             </div>
-            
+
         </div>
         <!-- Effecient Work End -->
 
@@ -1540,7 +1540,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
@@ -1587,7 +1587,7 @@
                                     28 June 2019
                                 </a>
                             </div>
-                            
+
                             <div
                                 class="t-pl-30 t-pr-30 t-pt-30"
                             >
@@ -1621,7 +1621,7 @@
                                     28 June 2019
                                 </a>
                             </div>
-                            
+
                             <div
                                 class="t-pl-30 t-pr-30 t-pt-30"
                             >
@@ -1655,7 +1655,7 @@
                                     28 June 2019
                                 </a>
                             </div>
-                            
+
                             <div
                                 class="t-pl-30 t-pr-30 t-pt-30"
                             >

@@ -29,14 +29,14 @@
             </div>
         </div>
         <!-- Preloader -->
-        
+
         <!-- Header  -->
         <header class="l-header active t-bg-light">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-7 col-lg-3 col-xl-2">
                         <div class="brand">
-                            <a href="index.html" class="t-link">
+                            <a href="/" class="t-link">
                                 <img
                                     src="assets/img/logo.png"
                                     alt="zolfin"
@@ -67,7 +67,7 @@
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="index.html"
+                                                href="/"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page
@@ -75,7 +75,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-2.html"
+                                                href="home-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 2
@@ -83,7 +83,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-3.html"
+                                                href="home-3"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 3
@@ -91,7 +91,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-4.html"
+                                                href="home-4"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 4
@@ -99,7 +99,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-5.html"
+                                                href="home-5"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 5
@@ -107,7 +107,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-6.html"
+                                                href="home-6"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 6
@@ -115,7 +115,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-7.html"
+                                                href="home-7"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 7
@@ -132,7 +132,7 @@
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="portfolio.html"
+                                                href="portfolio"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                            portfolio
@@ -140,7 +140,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="portfolio-details.html"
+                                                href="portfolio-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 portfolio details
@@ -158,7 +158,7 @@
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="service-details.html"
+                                                href="service-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 service details
@@ -185,7 +185,7 @@
                                                     class="zol-menu__sub-2-list-2"
                                                 >
                                                     <a
-                                                        href="about.html"
+                                                        href="about"
                                                         class="t-link zol-menu__sub-2-link-2"
                                                     >
                                                         about us
@@ -195,7 +195,7 @@
                                                     class="zol-menu__sub-2-list-2"
                                                 >
                                                     <a
-                                                        href="about-2.html"
+                                                        href="about-2"
                                                         class="t-link zol-menu__sub-2-link-2"
                                                     >
                                                         about company
@@ -205,7 +205,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="blog-details.html"
+                                                href="blog-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog details
@@ -213,7 +213,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="price.html"
+                                                href="price"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 price table
@@ -221,7 +221,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="faq.html"
+                                                href="faq"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 FAQ
@@ -229,7 +229,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="team.html"
+                                                href="team"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 team member
@@ -237,7 +237,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="process.html"
+                                                href="process"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 our process
@@ -245,7 +245,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="404.html"
+                                                href="404"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 404
@@ -264,7 +264,7 @@
                                             class="zol-menu__sub-list"
                                         >
                                             <a
-                                                href="blog.html"
+                                                href="blog"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog
@@ -274,7 +274,7 @@
                                             class="zol-menu__sub-list"
                                         >
                                             <a
-                                                href="blog-2.html"
+                                                href="blog-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog with sidebar
@@ -282,7 +282,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="blog-2.html"
+                                                href="blog-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog sidebar
@@ -292,7 +292,7 @@
                                 </li>
                                 <li class="zol-menu__list">
                                     <a
-                                        href="contact.html"
+                                        href="contact"
                                         class="t-link zol-menu__link"
                                         >contact us</a
                                     >
@@ -314,22 +314,30 @@
         <!-- Header End -->
 
         <!-- Banner  -->
-        <div class="zol-banner zol-banner--404 t-pt-150 t-pb-150">
+        <div class="zol-banner zol-banner--contact t-pt-150 t-pb-150">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-8 text-center">
                         <h2 class="mt-0 t-text-light text-capitalize">
-                            protfolio
+                            contact us
                         </h2>
-                        <ul class="t-list breadcrumbs d-flex justify-content-center align-items-center">
+                        <ul
+                            class="t-list breadcrumbs d-flex justify-content-center align-items-center"
+                        >
                             <li class="breadcrumbs__list">
-                                <a href="#" class="t-link breadcrumbs__link t-link--light-alpha text-capitalize">
+                                <a
+                                    href="#"
+                                    class="t-link breadcrumbs__link t-link--light-alpha text-capitalize"
+                                >
                                     home
                                 </a>
                             </li>
                             <li class="breadcrumbs__list">
-                                <a href="#" class="t-link breadcrumbs__link t-link--light-alpha text-capitalize">
-                                    protfolio
+                                <a
+                                    href="#"
+                                    class="t-link breadcrumbs__link t-link--light-alpha text-capitalize"
+                                >
+                                    contact us
                                 </a>
                             </li>
                         </ul>
@@ -339,458 +347,144 @@
         </div>
         <!-- Banner End -->
 
-        <!-- Portfolio  -->
-        <div class="t-pt-120 t-pb-90">
+        <!-- Contact  -->
+        <div class="t-pt-120 t-pb-150 l-contact l-contact--bg">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-1.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
+                    <div class="col-lg-6 t-mb-50 mb-lg-0">
+                        <h2 class="mt-0 text-capitalize">
+                            get in touch
+                        </h2>
+                        <p class="mb-0">
+                            Whether you need a full product, consultation, tech
+                            investments or an extended team
+                        </p>
+                    </div>
+
+                    <div class="col-lg-6 ">
+                        <div class="contact-form contact-form--element t-bg-light">
+                            <form action="#">
+                                <input
+                                    type="text"
+                                    name="name"
+                                    id="name"
+                                    class="form-control t-mb-15"
+                                    placeholder="Enter Your Name"
+                                />
+                                <input
+                                    type="text"
+                                    name="mail"
+                                    id="mail"
+                                    class="form-control t-mb-15"
+                                    placeholder="Enter Your Email"
+                                />
+                                <textarea
+                                    name="textarea"
+                                    id="textarea"
+                                    cols="30"
+                                    rows="10"
+                                    placeholder="Write your text"
+                                    class="form-control t-mb-15"
+                                ></textarea>
+                                <button
+                                    class="newsletter__button bttn bttn-round bttn-alpha bttn-md text-uppercase border-0 w-100 text-center"
+                                >
+                                    leave message
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- Contact End -->
+
+        <div class="t-pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 t-mb-30 mb-md-0">
+                        <div class="cards border">
+                            <div class="cards__img mx-auto text-center">
+                                <img src="assets/img/contact-icon-1.png" alt="zolfin" class="img-fluid">
                             </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-alpha"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
+                            <div class="cards__body text-center">
+                                <h4 class="text-capitalize cards__body-title">
+                                    Office Location
                                 </h4>
+                                <p class="mb-0 t-text-heading">
+                                    189 Matex Street, Badly Avenue New York, NY-12548
+                                </p>
+                            </div>
+                            <div class="cards__footer text-center t-mt-30">
+                                <a href="about" class="t-link t-link--alpha">
+                                    <span class="cards__footer-icon">
+                                        <i class="las la-plus-circle"></i>
+                                    </span>
+                                    <span class="text-capitalize font-weight-bold">
+                                        read more
+                                    </span>
+                                </a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-2.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
+                    <div class="col-md-4 t-mb-30 mb-md-0">
+                        <div class="cards border">
+                            <div class="cards__img mx-auto text-center">
+                                <img src="assets/img/contact-icon-2.png" alt="zolfin" class="img-fluid">
                             </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-beta"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
+                            <div class="cards__body text-center">
+                                <h4 class="text-capitalize cards__body-title">
+                                    Working Hours
                                 </h4>
+                                <p class="mb-0 t-text-heading">
+                                    Mon to Fri: 10am to 06pm
+                                    <br>
+                                    Sat: 10am to 02pm
+                                </p>
+                            </div>
+                            <div class="cards__footer text-center t-mt-30">
+                                <a href="about" class="t-link t-link--alpha">
+                                    <span class="cards__footer-icon">
+                                        <i class="las la-plus-circle"></i>
+                                    </span>
+                                    <span class="text-capitalize font-weight-bold">
+                                        read more
+                                    </span>
+                                </a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-3.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
+                    <div class="col-md-4 t-mb-30 mb-md-0">
+                        <div class="cards border">
+                            <div class="cards__img mx-auto text-center">
+                                <img src="assets/img/contact-icon-1.png" alt="zolfin" class="img-fluid">
                             </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-gamma"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
+                            <div class="cards__body text-center">
+                                <h4 class="text-capitalize cards__body-title">
+                                    Hotline Support
                                 </h4>
+                                <p class="mb-0 t-text-heading">
+                                    +880- 12345 678902
+                                    <br>
+                                    webname@example.com
+                                </p>
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-2.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
+                            <div class="cards__footer text-center t-mt-30">
+                                <a href="about" class="t-link t-link--alpha">
+                                    <span class="cards__footer-icon">
+                                        <i class="las la-plus-circle"></i>
+                                    </span>
+                                    <span class="text-capitalize font-weight-bold">
+                                        read more
+                                    </span>
                                 </a>
-                            </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-delta"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-1.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
-                            </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-alpha"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-3.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
-                            </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-beta"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-1.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
-                            </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-gamma"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-2.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
-                            </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-delta"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-3.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
-                            </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-alpha"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-3.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
-                            </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-delta"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-2.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
-                            </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-gamma"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 t-mb-30">
-                        <div class="project-card">
-                            <div class="project-card__img">
-                                <a href="#" class="t-link w-100">
-                                    <img
-                                        src="assets/img/project-img-1.png"
-                                        alt="zolfin"
-                                        class="img-fluid w-100"
-                                    />
-                                </a>
-                            </div>
-                            <div class="project-card__body">
-                                <a
-                                    href="#"
-                                    class="t-link t-link--alpha project-card__link"
-                                >
-                                    <i class="las la-plus"></i>
-                                </a>
-                                <a
-                                    href="#"
-                                    class="t-link text-uppercase font-weight-bold xsm-text t-link-alpha"
-                                >
-                                    web design
-                                </a>
-                                <h4
-                                    class="text-capitalize t-mt-10 mb-0"
-                                >
-                                    <a
-                                        href="#"
-                                        class="t-link t-link--alpha"
-                                    >
-                                        Hosting Webiste Rank
-                                    </a>
-                                </h4>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Portfolio End -->
 
         <!-- Back To Top -->
         <div class="back-to-top">
@@ -807,7 +501,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-4 t-mb-30 mb-lg-0">
                             <div class="brand mx-auto mx-lg-0">
-                                <a href="index.html" class="t-link">
+                                <a href="/" class="t-link">
                                     <img
                                         src="assets/img/logo.png"
                                         alt="zolfin"
@@ -826,7 +520,7 @@
                                     Ready to Work Together?
                                 </h3>
                                 <a
-                                    href="contact.html"
+                                    href="contact"
                                     class="t-link bttn bttn-lg bttn-round bttn-light text-capitalize"
                                 >
                                     get started
@@ -847,7 +541,7 @@
                                 <ul class="t-list text-center text-md-left">
                                     <li class="t-mb-10">
                                         <a
-                                            href="service-details.html"
+                                            href="service-details"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             Web Page Design
@@ -855,7 +549,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="service-details.html"
+                                            href="service-details"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             iOS Application
@@ -863,7 +557,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="service-details.html"
+                                            href="service-details"
                                             class="t-link text-capitalize t-link--alpha"
                                         >
                                             UX Research
@@ -876,7 +570,7 @@
                                 <ul class="t-list text-center text-md-left">
                                     <li class="t-mb-10">
                                         <a
-                                            href="blog.html"
+                                            href="blog"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             blog
@@ -884,7 +578,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="process.html"
+                                            href="process"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             terms condition
@@ -892,7 +586,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="about.html"
+                                            href="about"
                                             class="t-link text-capitalize t-link--alpha"
                                         >
                                             legal info
@@ -905,7 +599,7 @@
                                 <ul class="t-list text-center text-md-left">
                                     <li class="t-mb-10">
                                         <a
-                                            href="contact.html"
+                                            href="contact"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             online form
@@ -913,7 +607,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="contact.html"
+                                            href="contact"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             support
@@ -921,7 +615,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="contact.html"
+                                            href="contact"
                                             class="t-link text-capitalize t-link--alpha"
                                         >
                                             contact us

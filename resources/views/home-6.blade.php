@@ -45,7 +45,7 @@
                                 >
                                     <div class="zl-brand">
                                         <a
-                                            href="index.html"
+                                            href="/"
                                             class="t-link w-100 text-lg-center"
                                         >
                                             <img
@@ -184,7 +184,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="index.html"
+                                                                    href="/"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     home 1
@@ -194,7 +194,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="home-2.html"
+                                                                    href="home-2"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     home 2
@@ -204,7 +204,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="home-3.html"
+                                                                    href="home-3"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     home 3
@@ -214,7 +214,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="home-4.html"
+                                                                    href="home-4"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     home 4
@@ -224,7 +224,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="home-5.html"
+                                                                    href="home-5"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     home 5
@@ -234,7 +234,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="home-6.html"
+                                                                    href="home-6"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     home 6
@@ -244,7 +244,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="home-7.html"
+                                                                    href="home-7"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     home 7
@@ -268,7 +268,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="portfolio.html"
+                                                                    href="portfolio"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     portfolio
@@ -278,7 +278,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="portfolio-details.html"
+                                                                    href="portfolio-details"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     portfolio
@@ -289,7 +289,7 @@
                                                     </li>
                                                     <li class="zl-nav__item">
                                                         <a
-                                                            href="service-details.html"
+                                                            href="service-details"
                                                             class="t-link zl-nav__link"
                                                         >
                                                             service page
@@ -323,7 +323,7 @@
                                                                         class="zl-nav__sub-item"
                                                                     >
                                                                         <a
-                                                                            href="about.html"
+                                                                            href="about"
                                                                             class="t-link zl-nav__sub-link"
                                                                         >
                                                                             about
@@ -334,7 +334,7 @@
                                                                         class="zl-nav__sub-item"
                                                                     >
                                                                         <a
-                                                                            href="about-2.html"
+                                                                            href="about-2"
                                                                             class="t-link zl-nav__sub-link"
                                                                         >
                                                                             about
@@ -347,7 +347,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="price.html"
+                                                                    href="price"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     price table
@@ -357,7 +357,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="faq.html"
+                                                                    href="faq"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     FAQ
@@ -367,7 +367,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="team.html"
+                                                                    href="team"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     team member
@@ -377,7 +377,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="process.html"
+                                                                    href="process"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     work process
@@ -387,7 +387,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="404.html"
+                                                                    href="404"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     404
@@ -411,7 +411,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="blog.html"
+                                                                    href="blog"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     blog
@@ -421,7 +421,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="blog-2.html"
+                                                                    href="blog-2"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     blog sidebar
@@ -431,7 +431,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="blog-details.html"
+                                                                    href="blog-details"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     blog details
@@ -441,7 +441,7 @@
                                                     </li>
                                                     <li class="zl-nav__item">
                                                         <a
-                                                            href="contact.html"
+                                                            href="contact"
                                                             class="t-link zl-nav__link"
                                                         >
                                                             contact
@@ -1408,13 +1408,13 @@
                     </div>
                     <div class="col-md-6 col-xxl-5 ml-xxl-auto">
                         <h2 class="text-capitalize mt-0">
-                            Protect Your privacy in 
+                            Protect Your privacy in
                             <span class="t-text-color-11">
                                 zolfin now
                             </span>
                         </h2>
                         <p>
-                            Zolfin is a good that there’s a cloud Don't take our word for, 
+                            Zolfin is a good that there’s a cloud Don't take our word for,
 see it for yourself.
                         </p>
                         <a href="#" class="t-link t-mb-30 bttn bttn-md bttn-semi-round bttn-color-11 text-capitalize">
@@ -1456,7 +1456,7 @@ see it for yourself.
                                         <i class="las la-headset"></i>
                                     </div>
                                     <h3 class="text-capitalize">
-                                        we care about you 
+                                        we care about you
                                         <span class="t-text-color-11">
                                             help available 24/7
                                         </span>
@@ -1466,7 +1466,7 @@ see it for yourself.
                                     </h3>
                                 </div>
                                 <div class="zl-brand t-mt-30">
-                                    <a href="index.html" class="t-link w-100 text-center text-md-left">
+                                    <a href="/" class="t-link w-100 text-center text-md-left">
                                         <img src="assets/img/logo-6.png" alt="zolfin" class="img-fluid">
                                     </a>
                                 </div>

@@ -17,7 +17,6 @@
         <link rel="stylesheet" href="assets/css/style.css" />
     </head>
     <body>
-
         <!-- Preloader -->
         <div class="content preloader">
             <div id="inTurnFadingTextG">
@@ -37,7 +36,7 @@
                 <div class="row align-items-center">
                     <div class="col-7 col-lg-3 col-xl-2">
                         <div class="brand">
-                            <a href="index.html" class="t-link">
+                            <a href="/" class="t-link">
                                 <img
                                     src="assets/img/logo.png"
                                     alt="zolfin"
@@ -68,7 +67,7 @@
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="index.html"
+                                                href="/"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page
@@ -76,7 +75,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-2.html"
+                                                href="home-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 2
@@ -84,7 +83,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-3.html"
+                                                href="home-3"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 3
@@ -92,7 +91,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-4.html"
+                                                href="home-4"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 4
@@ -100,7 +99,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-5.html"
+                                                href="home-5"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 5
@@ -108,7 +107,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-6.html"
+                                                href="home-6"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 6
@@ -116,7 +115,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-7.html"
+                                                href="home-7"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 7
@@ -125,21 +124,23 @@
                                     </ul>
                                 </li>
                                 <li class="zol-menu__list zol-menu__has-sub">
-                                    <a href="#" class="t-link zol-menu__link"
+                                    <a
+                                        href="#"
+                                        class="t-link zol-menu__link"
                                         >portfolio</a
                                     >
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="portfolio.html"
+                                                href="portfolio"
                                                 class="t-link zol-menu__sub-link"
                                             >
-                                                portfolio
+                                           portfolio
                                             </a>
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="portfolio-details.html"
+                                                href="portfolio-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 portfolio details
@@ -149,13 +150,15 @@
                                 </li>
 
                                 <li class="zol-menu__list zol-menu__has-sub">
-                                    <a href="#" class="t-link zol-menu__link"
+                                    <a
+                                        href="#"
+                                        class="t-link zol-menu__link"
                                         >service</a
                                     >
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="service-details.html"
+                                                href="service-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 service details
@@ -182,7 +185,7 @@
                                                     class="zol-menu__sub-2-list-2"
                                                 >
                                                     <a
-                                                        href="about.html"
+                                                        href="about"
                                                         class="t-link zol-menu__sub-2-link-2"
                                                     >
                                                         about us
@@ -192,7 +195,7 @@
                                                     class="zol-menu__sub-2-list-2"
                                                 >
                                                     <a
-                                                        href="about-2.html"
+                                                        href="about-2"
                                                         class="t-link zol-menu__sub-2-link-2"
                                                     >
                                                         about company
@@ -202,7 +205,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="blog-details.html"
+                                                href="blog-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog details
@@ -210,7 +213,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="price.html"
+                                                href="price"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 price table
@@ -218,7 +221,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="faq.html"
+                                                href="faq"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 FAQ
@@ -226,7 +229,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="team.html"
+                                                href="team"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 team member
@@ -234,7 +237,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="process.html"
+                                                href="process"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 our process
@@ -242,7 +245,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="404.html"
+                                                href="404"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 404
@@ -251,13 +254,17 @@
                                     </ul>
                                 </li>
                                 <li class="zol-menu__list zol-menu__has-sub">
-                                    <a href="#" class="t-link zol-menu__link"
+                                    <a
+                                        href="#"
+                                        class="t-link zol-menu__link"
                                         >blog</a
                                     >
                                     <ul class="t-list zol-menu__sub">
-                                        <li class="zol-menu__sub-list">
+                                        <li
+                                            class="zol-menu__sub-list"
+                                        >
                                             <a
-                                                href="blog.html"
+                                                href="blog"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog
@@ -267,7 +274,7 @@
                                             class="zol-menu__sub-list"
                                         >
                                             <a
-                                                href="blog-2.html"
+                                                href="blog-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog with sidebar
@@ -275,7 +282,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="blog-2.html"
+                                                href="blog-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog sidebar
@@ -285,7 +292,7 @@
                                 </li>
                                 <li class="zol-menu__list">
                                     <a
-                                        href="contact.html"
+                                        href="contact"
                                         class="t-link zol-menu__link"
                                         >contact us</a
                                     >
@@ -307,30 +314,22 @@
         <!-- Header End -->
 
         <!-- Banner  -->
-        <div class="zol-banner zol-banner--portfolio t-pt-150 t-pb-150">
+        <div class="zol-banner zol-banner--blog t-pt-150 t-pb-150">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-8 text-center">
-                        <h2 class="mt-0 t-text-light text-capitalize">
-                            protfolio
+                        <h2 class="mt-0 t-text-light">
+                            Blog & News
                         </h2>
-                        <ul
-                            class="t-list breadcrumbs d-flex justify-content-center align-items-center"
-                        >
+                        <ul class="t-list breadcrumbs d-flex justify-content-center align-items-center">
                             <li class="breadcrumbs__list">
-                                <a
-                                    href="#"
-                                    class="t-link breadcrumbs__link t-link--light-alpha text-capitalize"
-                                >
+                                <a href="#" class="t-link breadcrumbs__link t-link--light-alpha text-capitalize">
                                     home
                                 </a>
                             </li>
                             <li class="breadcrumbs__list">
-                                <a
-                                    href="#"
-                                    class="t-link breadcrumbs__link t-link--light-alpha text-capitalize"
-                                >
-                                    protfolio
+                                <a href="#" class="t-link breadcrumbs__link t-link--light-alpha text-capitalize">
+                                    blog
                                 </a>
                             </li>
                         </ul>
@@ -340,166 +339,225 @@
         </div>
         <!-- Banner End -->
 
-        <!-- Portfolio  -->
-        <div class="t-pt-120 t-pb-90">
+        <!-- Blog Post  -->
+        <div class="t-pt-120 t-pb-120">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-5 t-mb-50 mb-lg-0">
-                        <span
-                            class="text-uppercase t-text-alpha font-weight-bold"
-                        >
-                            OVERVIEW
-                        </span>
-                        <h2 class="text-capitalize">About The Client</h2>
-                        <p class="mb-0">
-                            Convert your emails into tickets and keep them all
-                            organized in one place. Never leave customers'
-                            questions unanswered. sed by millions of designers
-                            and artists to create
-                        </p>
-                        <hr class="t-mt-50 t-mb-50" />
-                        <div class="row align-items-center">
-                            <div class="col-5 col-md-4 t-mb-10">
-                                <span
-                                    class="lg-text text-capitalize font-weight-bold"
-                                >
-                                    Categories :
-                                </span>
-                            </div>
-                            <div class="col-7 col-md-8 t-mb-10">
-                                <span class="text-capitalize">
-                                    Marketing Plan
-                                </span>
-                            </div>
-                            <div class="col-5 col-md-4 t-mb-10">
-                                <span
-                                    class="lg-text text-capitalize font-weight-bold"
-                                >
-                                    Date :
-                                </span>
-                            </div>
-                            <div class="col-7 col-md-8 t-mb-10">
-                                <span class="text-capitalize">
-                                    25 August, 2019
-                                </span>
-                            </div>
-                            <div class="col-5 col-md-4 t-mb-10">
-                                <span
-                                    class="lg-text text-capitalize font-weight-bold"
-                                >
-                                    Client :
-                                </span>
-                            </div>
-                            <div class="col-7 col-md-8 t-mb-10">
-                                <span class="text-capitalize"> Linglee </span>
-                            </div>
-                            <div class="col-5 col-md-4 t-mb-10">
-                                <span
-                                    class="lg-text text-capitalize font-weight-bold"
-                                >
-                                    Share :
-                                </span>
-                            </div>
-                            <div class="col-7 col-md-8 t-mb-10">
-                                <ul
-                                    class="t-list social-list justify-content-start"
-                                >
-                                    <li class="social-list__item">
-                                        <a
-                                            href="#"
-                                            class="t-link social-icon social-icon--alpha"
-                                        >
-                                            <span class="xlg-text">
-                                                <i
-                                                    class="lab la-facebook-f"
-                                                ></i>
+                <div class="row justify-content-center">
+                    <div class="col-lg-10 col-xl-8">
+                        <div class="row">
+                            <div class="col-12 t-mb-50">
+                                <div class="blog-post border">
+                                    <div class="blog-post__img">
+                                        <a href="#" class="t-link blog-post__img-link w-100">
+                                            <img src="assets/img/blog-post.png" alt="zolfin" class="w-100 img-fluid">
+                                        </a>
+                                        <span class="blog-post__date d-flex flex-column align-items-center justify-content-center">
+                                            <span class="blog-post__date-day d-block">
+                                                25
                                             </span>
+                                            <span class="blog-post__date-month text-capitalize d-block">
+                                                august
+                                            </span>
+                                        </span>
+                                    </div>
+                                    <div class="blog-post__body">
+                                        <h3 class="blog-post__title">
+                                            <a href="blog-details" class="t-link t-link--alpha blog-post__title-link">
+                                                Your time is valuable for providing networking names
+                                            </a>
+                                        </h3>
+                                        <p class="t-mt-30 t-text-heading">
+                                            A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradise matic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control Pro quod oblique intellegat.
+                                        </p>
+                                    </div>
+                                    <div class="blog-post__footer t-pb-30 t-pt-20">
+                                        <ul class="t-list d-flex align-items-center blog-post__footer flex-wrap">
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link blog-post__author d-flex align-items-center">
+                                                    <span class="blog-post__author-img t-mr-8">
+                                                        <img src="assets/img/user.jpg" alt="zolfin" class="img-fluid">
+                                                    </span>
+                                                    <span class="blog-post__author-name text-capitalize">
+                                                        jhon doe
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link t-link--alpha sm-text blog-post__footer-link text-capitalize">
+                                                    <i class="las la-tags"></i>
+                                                    business
+                                                </a>
+                                            </li>
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link t-link--alpha sm-text blog-post__footer-link text-capitalize">
+                                                    <i class="las la-calendar"></i>
+                                                    25 october
+                                                </a>
+                                            </li>
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link t-link--alpha sm-text blog-post__footer-link text-capitalize">
+                                                    <i class="las la-clock"></i>
+                                                    8 min read
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 t-mb-50">
+                                <div class="blog-post border">
+                                    <div class="blog-post__img">
+                                        <div class="blog-post__slider">
+                                            <div class="blog-post__slider-item">
+                                                <a href="#" class="t-link blog-post__img-link w-100">
+                                                    <img src="assets/img/blog-post-2.png" alt="zolfin" class="w-100 img-fluid">
+                                                </a>
+                                            </div>
+                                            <div class="blog-post__slider-item">
+                                                <a href="#" class="t-link blog-post__img-link w-100">
+                                                    <img src="assets/img/blog-post.png" alt="zolfin" class="w-100 img-fluid">
+                                                </a>
+                                            </div>
+                                            <div class="blog-post__slider-item">
+                                                <a href="#" class="t-link blog-post__img-link w-100">
+                                                    <img src="assets/img/blog-post-2.png" alt="zolfin" class="w-100 img-fluid">
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="blog-post__body">
+                                        <h3 class="blog-post__title">
+                                            <a href="blog-details" class="t-link t-link--alpha blog-post__title-link">
+                                                Your time is valuable for providing networking names
+                                            </a>
+                                        </h3>
+                                        <p class="t-mt-30 t-text-heading">
+                                            A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradise matic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control Pro quod oblique intellegat.
+                                        </p>
+                                    </div>
+                                    <div class="blog-post__footer t-pb-30 t-pt-20">
+                                        <ul class="t-list d-flex align-items-center blog-post__footer flex-wrap">
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link blog-post__author d-flex align-items-center">
+                                                    <span class="blog-post__author-img t-mr-8">
+                                                        <img src="assets/img/user.jpg" alt="zolfin" class="img-fluid">
+                                                    </span>
+                                                    <span class="blog-post__author-name text-capitalize">
+                                                        jhon doe
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link t-link--alpha sm-text blog-post__footer-link text-capitalize">
+                                                    <i class="las la-tags"></i>
+                                                    business
+                                                </a>
+                                            </li>
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link t-link--alpha sm-text blog-post__footer-link text-capitalize">
+                                                    <i class="las la-calendar"></i>
+                                                    25 october
+                                                </a>
+                                            </li>
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link t-link--alpha sm-text blog-post__footer-link text-capitalize">
+                                                    <i class="las la-clock"></i>
+                                                    8 min read
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 t-mb-50">
+                                <div class="blog-post border">
+                                    <div class="blog-post__img">
+                                        <a href="#" class="t-link blog-post__img-link w-100">
+                                            <img src="assets/img/blog-post.png" alt="zolfin" class="w-100 img-fluid">
+                                        </a>
+                                        <span class="blog-post__date d-flex flex-column align-items-center justify-content-center">
+                                            <span class="blog-post__date-day d-block">
+                                                25
+                                            </span>
+                                            <span class="blog-post__date-month text-capitalize d-block">
+                                                august
+                                            </span>
+                                        </span>
+                                    </div>
+                                    <div class="blog-post__body">
+                                        <h3 class="blog-post__title">
+                                            <a href="blog-details" class="t-link t-link--alpha blog-post__title-link">
+                                                Your time is valuable for providing networking names
+                                            </a>
+                                        </h3>
+                                        <p class="t-mt-30 t-text-heading">
+                                            A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradise matic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control Pro quod oblique intellegat.
+                                        </p>
+                                    </div>
+                                    <div class="blog-post__footer t-pb-30 t-pt-20">
+                                        <ul class="t-list d-flex align-items-center blog-post__footer flex-wrap">
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link blog-post__author d-flex align-items-center">
+                                                    <span class="blog-post__author-img t-mr-8">
+                                                        <img src="assets/img/user.jpg" alt="zolfin" class="img-fluid">
+                                                    </span>
+                                                    <span class="blog-post__author-name text-capitalize">
+                                                        jhon doe
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link t-link--alpha sm-text blog-post__footer-link text-capitalize">
+                                                    <i class="las la-tags"></i>
+                                                    business
+                                                </a>
+                                            </li>
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link t-link--alpha sm-text blog-post__footer-link text-capitalize">
+                                                    <i class="las la-calendar"></i>
+                                                    25 october
+                                                </a>
+                                            </li>
+                                            <li class="blog-post__footer-list t-mb-15 t-mr-15">
+                                                <a href="#" class="t-link t-link--alpha sm-text blog-post__footer-link text-capitalize">
+                                                    <i class="las la-clock"></i>
+                                                    8 min read
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <ul class="t-list zol-pagination d-flex flex-wrap">
+                                    <li class="zol-pagination__list">
+                                        <a href="#" class="t-link zol-pagination__card active">
+                                            1
                                         </a>
                                     </li>
-                                    <li class="social-list__item">
-                                        <a
-                                            href="#"
-                                            class="t-link social-icon social-icon--alpha"
-                                        >
-                                            <span class="xlg-text">
-                                                <i class="lab la-twitter"></i>
-                                            </span>
+                                    <li class="zol-pagination__list">
+                                        <a href="#" class="t-link zol-pagination__card">
+                                            2
                                         </a>
                                     </li>
-                                    <li class="social-list__item">
-                                        <a
-                                            href="#"
-                                            class="t-link social-icon social-icon--alpha"
-                                        >
-                                            <span class="xlg-text">
-                                                <i class="lab la-instagram"></i>
-                                            </span>
+                                    <li class="zol-pagination__list">
+                                        <a href="#" class="t-link zol-pagination__card">
+                                            3
+                                        </a>
+                                    </li>
+                                    <li class="zol-pagination__list">
+                                        <a href="#" class="t-link zol-pagination__card">
+                                            4
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-
-                        <button
-                            class="t-mt-50 newsletter__button bttn bttn-round bttn-alpha bttn-md text-uppercase border-0"
-                        >
-                            visit site
-                            <i class="las la-long-arrow-alt-right"></i>
-                        </button>
-                    </div>
-                    <div class="col-lg-7">
-                        <img
-                            src="assets/img/portfolio-img.png"
-                            alt="zolfin"
-                            class="img-fluid"
-                        />
-                    </div>
-                </div>
-                <div class="row t-mt-70">
-                    <div class="col-lg-6 t-mb-50 mb-lg-0">
-                        <h3 class="mt-0">Project Brief :</h3>
-                        <p>
-                            Far far away, behind the word mountains, far from
-                            the countries Vokalia and Consonantia, there live
-                            the blind texts. Separated they live in
-                            Bookmarksgrove right at the coast of the Semantics
-                        </p>
-                        <p class="mb-0">
-                            flows by their place and supplies it with the
-                            necessary regelialia. It is a paradisematic country,
-                            in which roasted parts of sentences
-                        </p>
-                    </div>
-                    <div class="col-lg-6">
-                        <h3 class="mt-0">Project Brief :</h3>
-                        <p>
-                            Far far away, behind the word mountains, far from
-                            the countries Vokalia and Consonantia, there live
-                            the blind texts. Separated they live in
-                            Bookmarksgrove right at the coast of the Semantics
-                        </p>
-                        <p class="mb-0">
-                            flows by their place and supplies it with the
-                            necessary regelialia. It is a paradisematic country,
-                            in which roasted parts of sentences
-                        </p>
-                    </div>
-                </div>
-                <div class="row justify-content-between t-mt-50">
-                    <div class="col-6">
-                        <a href="#" class="t-link zol-pagination__card active">
-                            <i class="las la-arrow-left"></i>
-                        </a>
-                    </div>
-                    <div class="col-6 text-right">
-                        <a href="#" class="t-link zol-pagination__card">
-                            <i class="las la-arrow-right"></i>
-                        </a>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Portfolio End -->
+        <!-- Blog Post End -->
 
         <!-- Back To Top -->
         <div class="back-to-top">
@@ -516,7 +574,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-4 t-mb-30 mb-lg-0">
                             <div class="brand mx-auto mx-lg-0">
-                                <a href="index.html" class="t-link">
+                                <a href="/" class="t-link">
                                     <img
                                         src="assets/img/logo.png"
                                         alt="zolfin"
@@ -535,7 +593,7 @@
                                     Ready to Work Together?
                                 </h3>
                                 <a
-                                    href="contact.html"
+                                    href="contact"
                                     class="t-link bttn bttn-lg bttn-round bttn-light text-capitalize"
                                 >
                                     get started
@@ -556,7 +614,7 @@
                                 <ul class="t-list text-center text-md-left">
                                     <li class="t-mb-10">
                                         <a
-                                            href="service-details.html"
+                                            href="service-details"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             Web Page Design
@@ -564,7 +622,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="service-details.html"
+                                            href="service-details"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             iOS Application
@@ -572,7 +630,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="service-details.html"
+                                            href="service-details"
                                             class="t-link text-capitalize t-link--alpha"
                                         >
                                             UX Research
@@ -585,7 +643,7 @@
                                 <ul class="t-list text-center text-md-left">
                                     <li class="t-mb-10">
                                         <a
-                                            href="blog.html"
+                                            href="blog"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             blog
@@ -593,7 +651,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="process.html"
+                                            href="process"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             terms condition
@@ -601,7 +659,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="about.html"
+                                            href="about"
                                             class="t-link text-capitalize t-link--alpha"
                                         >
                                             legal info
@@ -614,7 +672,7 @@
                                 <ul class="t-list text-center text-md-left">
                                     <li class="t-mb-10">
                                         <a
-                                            href="contact.html"
+                                            href="contact"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             online form
@@ -622,7 +680,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="contact.html"
+                                            href="contact"
                                             class="t-link text-capitalize t-link--primary t-link--alpha"
                                         >
                                             support
@@ -630,7 +688,7 @@
                                     </li>
                                     <li class="t-mb-10">
                                         <a
-                                            href="contact.html"
+                                            href="contact"
                                             class="t-link text-capitalize t-link--alpha"
                                         >
                                             contact us

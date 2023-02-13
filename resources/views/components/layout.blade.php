@@ -14,9 +14,9 @@
         />
 
         <!-- Stylesheet Link -->
-        <link rel="stylesheet" href="assets/css/style.css" />
+        <link rel="stylesheet" href="{{ asset('assets/css/style.css')  }}" />
     </head>
-    <body>
+    <body class="t-bg-light-2">
         <!-- Preloader -->
         <div class="content preloader">
             <div id="inTurnFadingTextG">
@@ -29,14 +29,14 @@
             </div>
         </div>
         <!-- Preloader -->
-        
+
         <!-- Header  -->
-        <header class="l-header active t-bg-light">
+        <header class="l-header active t-bg-light border-bottom">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-7 col-lg-3 col-xl-2">
                         <div class="brand">
-                            <a href="index.html" class="t-link">
+                            <a href="/" class="t-link">
                                 <img
                                     src="assets/img/logo.png"
                                     alt="zolfin"
@@ -67,7 +67,7 @@
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="index.html"
+                                                href="/"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page
@@ -75,7 +75,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-2.html"
+                                                href="home-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 2
@@ -83,7 +83,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-3.html"
+                                                href="home-3"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 3
@@ -91,7 +91,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-4.html"
+                                                href="home-4"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 4
@@ -99,7 +99,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-5.html"
+                                                href="home-5"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 5
@@ -107,7 +107,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-6.html"
+                                                href="home-6"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 6
@@ -115,7 +115,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="home-7.html"
+                                                href="home-7"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 home page 7
@@ -124,23 +124,21 @@
                                     </ul>
                                 </li>
                                 <li class="zol-menu__list zol-menu__has-sub">
-                                    <a
-                                        href="#"
-                                        class="t-link zol-menu__link"
+                                    <a href="#" class="t-link zol-menu__link"
                                         >portfolio</a
                                     >
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="portfolio.html"
+                                                href="portfolio"
                                                 class="t-link zol-menu__sub-link"
                                             >
-                                           portfolio
+                                                portfolio
                                             </a>
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="portfolio-details.html"
+                                                href="portfolio-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 portfolio details
@@ -150,15 +148,13 @@
                                 </li>
 
                                 <li class="zol-menu__list zol-menu__has-sub">
-                                    <a
-                                        href="#"
-                                        class="t-link zol-menu__link"
+                                    <a href="#" class="t-link zol-menu__link"
                                         >service</a
                                     >
                                     <ul class="t-list zol-menu__sub">
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="service-details.html"
+                                                href="service-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 service details
@@ -185,7 +181,7 @@
                                                     class="zol-menu__sub-2-list-2"
                                                 >
                                                     <a
-                                                        href="about.html"
+                                                        href="about"
                                                         class="t-link zol-menu__sub-2-link-2"
                                                     >
                                                         about us
@@ -195,7 +191,7 @@
                                                     class="zol-menu__sub-2-list-2"
                                                 >
                                                     <a
-                                                        href="about-2.html"
+                                                        href="about-2"
                                                         class="t-link zol-menu__sub-2-link-2"
                                                     >
                                                         about company
@@ -205,7 +201,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="blog-details.html"
+                                                href="blog-details"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog details
@@ -213,7 +209,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="price.html"
+                                                href="price"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 price table
@@ -221,7 +217,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="faq.html"
+                                                href="faq"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 FAQ
@@ -229,7 +225,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="team.html"
+                                                href="team"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 team member
@@ -237,7 +233,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="process.html"
+                                                href="process"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 our process
@@ -245,7 +241,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="404.html"
+                                                href="404"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 404
@@ -254,27 +250,21 @@
                                     </ul>
                                 </li>
                                 <li class="zol-menu__list zol-menu__has-sub">
-                                    <a
-                                        href="#"
-                                        class="t-link zol-menu__link"
+                                    <a href="#" class="t-link zol-menu__link"
                                         >blog</a
                                     >
                                     <ul class="t-list zol-menu__sub">
-                                        <li
-                                            class="zol-menu__sub-list"
-                                        >
+                                        <li class="zol-menu__sub-list">
                                             <a
-                                                href="blog.html"
+                                                href="blog"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog
                                             </a>
                                         </li>
-                                        <li
-                                            class="zol-menu__sub-list"
-                                        >
+                                        <li class="zol-menu__sub-list">
                                             <a
-                                                href="blog-2.html"
+                                                href="blog-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog with sidebar
@@ -282,7 +272,7 @@
                                         </li>
                                         <li class="zol-menu__sub-list">
                                             <a
-                                                href="blog-2.html"
+                                                href="blog-2"
                                                 class="t-link zol-menu__sub-link"
                                             >
                                                 blog sidebar
@@ -292,7 +282,7 @@
                                 </li>
                                 <li class="zol-menu__list">
                                     <a
-                                        href="contact.html"
+                                        href="contact"
                                         class="t-link zol-menu__link"
                                         >contact us</a
                                     >
@@ -313,70 +303,16 @@
         </header>
         <!-- Header End -->
 
-        <!-- Banner  -->
-        <div class="zol-banner zol-banner--404 t-pt-150 t-pb-150">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-8 text-center">
-                        <h2 class="mt-0 t-text-light">
-                            404
-                        </h2>
-                        <ul class="t-list breadcrumbs d-flex justify-content-center align-items-center">
-                            <li class="breadcrumbs__list">
-                                <a href="#" class="t-link breadcrumbs__link t-link--light-alpha text-capitalize">
-                                    home
-                                </a>
-                            </li>
-                            <li class="breadcrumbs__list">
-                                <a href="#" class="t-link breadcrumbs__link t-link--light-alpha text-capitalize">
-                                    404
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Banner End -->
-
-        <!-- Error  -->
-        <div class="t-pb-120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <img src="assets/img/404.png" alt="zolfin" class="img-fluid mx-auto">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12 text-center">
-                        <h2 class="t-mt-50 text-capitalize">
-                            Oops.... Page Not Found
-                        </h2>
-                        <a href="#" class="t-link bttn bttn-lg bttn-round bttn-alpha text-capitalize t-mt-50">
-                            get started
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Error End -->
-
-        <!-- Back To Top -->
-        <div class="back-to-top">
-            <span class="back-top">
-                <i class="las la-angle-up"></i>
-            </span>
-        </div>
-        <!-- Back To Top End -->
+        @yield('main_content')
 
         <!-- Footer  -->
-        <footer class="l-footer t-pt-50 pt-lg-0">
+        <footer class="footer-style-2">
             <div class="footer-top">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-4 t-mb-30 mb-lg-0">
                             <div class="brand mx-auto mx-lg-0">
-                                <a href="index.html" class="t-link">
+                                <a href="/" class="t-link">
                                     <img
                                         src="assets/img/logo.png"
                                         alt="zolfin"
@@ -386,165 +322,61 @@
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <div
-                                class="cta t-bg-primary t-pt-50 t-pb-50 text-center d-lg-flex align-items-lg-center justify-content-lg-around"
-                            >
-                                <h3
-                                    class="text-capitalize t-text-light text-center mt-lg-0 mb-lg-0"
-                                >
-                                    Ready to Work Together?
-                                </h3>
-                                <a
-                                    href="contact.html"
-                                    class="t-link bttn bttn-lg bttn-round bttn-light text-capitalize"
-                                >
-                                    get started
-                                </a>
+                            <div class="footer-top__nav">
+                                <ul class="t-list footer-top__list">
+                                    <li class="footer-top__list-item">
+                                        <a href="#" class="t-link footer-top__link text-uppercase sm-text">
+                                            projects
+                                        </a>
+                                    </li>
+                                    <li class="footer-top__list-item">
+                                        <a href="#" class="t-link footer-top__link text-uppercase sm-text">
+                                            awards
+                                        </a>
+                                    </li>
+                                    <li class="footer-top__list-item">
+                                        <a href="#" class="t-link footer-top__link text-uppercase sm-text">
+                                            clients
+                                        </a>
+                                    </li>
+                                    <li class="footer-top__list-item">
+                                        <a href="#" class="t-link footer-top__link text-uppercase sm-text">
+                                            contact
+                                        </a>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="footer-mid t-mt-50">
+            <div class="footer-bottom t-pt-30 t-pb-30 t-bg-theta">
                 <div class="container">
-                    <div class="border-bottom t-pb-50">
-                        <div class="row">
-                            <div class="col-md-6 col-lg-3 t-mb-30 mb-lg-0">
-                                <h5 class="mt-0 text-capitalize text-center text-md-left">
-                                    Our Service
-                                </h5>
-                                <ul class="t-list text-center text-md-left">
-                                    <li class="t-mb-10">
-                                        <a
-                                            href="service-details.html"
-                                            class="t-link text-capitalize t-link--primary t-link--alpha"
-                                        >
-                                            Web Page Design
-                                        </a>
-                                    </li>
-                                    <li class="t-mb-10">
-                                        <a
-                                            href="service-details.html"
-                                            class="t-link text-capitalize t-link--primary t-link--alpha"
-                                        >
-                                            iOS Application
-                                        </a>
-                                    </li>
-                                    <li class="t-mb-10">
-                                        <a
-                                            href="service-details.html"
-                                            class="t-link text-capitalize t-link--alpha"
-                                        >
-                                            UX Research
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="col-md-6 col-lg-3 t-mb-30 mb-lg-0">
-                                <h5 class="mt-0 text-capitalize text-center text-md-left">More link</h5>
-                                <ul class="t-list text-center text-md-left">
-                                    <li class="t-mb-10">
-                                        <a
-                                            href="blog.html"
-                                            class="t-link text-capitalize t-link--primary t-link--alpha"
-                                        >
-                                            blog
-                                        </a>
-                                    </li>
-                                    <li class="t-mb-10">
-                                        <a
-                                            href="process.html"
-                                            class="t-link text-capitalize t-link--primary t-link--alpha"
-                                        >
-                                            terms condition
-                                        </a>
-                                    </li>
-                                    <li class="t-mb-10">
-                                        <a
-                                            href="about.html"
-                                            class="t-link text-capitalize t-link--alpha"
-                                        >
-                                            legal info
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="col-md-6 col-lg-2 t-mb-30 mb-lg-0">
-                                <h5 class="mt-0 text-capitalize text-center text-md-left">contact</h5>
-                                <ul class="t-list text-center text-md-left">
-                                    <li class="t-mb-10">
-                                        <a
-                                            href="contact.html"
-                                            class="t-link text-capitalize t-link--primary t-link--alpha"
-                                        >
-                                            online form
-                                        </a>
-                                    </li>
-                                    <li class="t-mb-10">
-                                        <a
-                                            href="contact.html"
-                                            class="t-link text-capitalize t-link--primary t-link--alpha"
-                                        >
-                                            support
-                                        </a>
-                                    </li>
-                                    <li class="t-mb-10">
-                                        <a
-                                            href="contact.html"
-                                            class="t-link text-capitalize t-link--alpha"
-                                        >
-                                            contact us
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="col-md-6 col-lg-4 t-mb-30 mb-lg-0 text-center text-md-left">
-                                <span
-                                    class="text-uppercase t-text-alpha lg-text font-weight-bold d-block"
-                                >
-                                    newsletter
-                                </span>
-                                <h4 class="text-capitalize t-mt-10">
-                                    Subscribe to the free newsletter
-                                </h4>
-                                <form
-                                    action="#"
-                                    class="newsletter border t-pt-5 t-pb-5 t-pl-15 t-pr-10"
-                                >
-                                    <input
-                                        type="text"
-                                        placeholder="your email"
-                                        class="w-100 newsletter__input"
-                                    />
-                                    <button
-                                        class="newsletter__button bttn bttn-round bttn-alpha bttn-sm text-uppercase border-0"
-                                    >
-                                        join now
-                                    </button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-bottom t-pt-15 t-pb-15">
-                <div class="container">
-                    <div class="row">
+                    <div class="row justify-content-between align-items-center">
                         <div
-                            class="col-md-6 t-mb-15 mb-md-0 text-center text-md-left"
+                            class="col-md-4 t-mb-15 mb-md-0 text-center text-md-left t-text-light sm-text"
                         >
-                            &copy; 2020,
-                            <a href="#" class="t-link t-link--alpha">Zolfin</a>.
-                            All Rights Reserved.
+                            &copy; 2020
+                            <a href="#" class="t-link t-link-alpha">Zolfin</a>
+                                All Rights Reserved.
                         </div>
-                        <div class="col-md-6">
+                        <div
+                            class="col-md-4 t-mb-15 mb-md-0 text-center t-text-light sm-text"
+                        >
+                        Made with by
+                            <a href="#" class="t-link t-link-alpha">
+                                <i class="las la-heart"></i>
+                            </a>
+                            SoftTech-IT
+                        </div>
+                        <div class="col-md-4">
                             <ul
                                 class="t-list social-list justify-content-center justify-content-md-end"
                             >
                                 <li class="social-list__item">
                                     <a
                                         href="#"
-                                        class="t-link social-icon social-icon--alpha"
+                                        class="t-link social-icon-light social-icon-light--hover"
                                     >
                                         <span class="xlg-text">
                                             <i class="lab la-facebook-f"></i>
@@ -554,7 +386,7 @@
                                 <li class="social-list__item">
                                     <a
                                         href="#"
-                                        class="t-link social-icon social-icon--alpha"
+                                        class="t-link social-icon-light social-icon-light--hover"
                                     >
                                         <span class="xlg-text">
                                             <i class="lab la-twitter"></i>
@@ -564,7 +396,7 @@
                                 <li class="social-list__item">
                                     <a
                                         href="#"
-                                        class="t-link social-icon social-icon--alpha"
+                                        class="t-link social-icon-light social-icon-light--hover"
                                     >
                                         <span class="xlg-text">
                                             <i class="lab la-instagram"></i>
@@ -574,7 +406,7 @@
                                 <li class="social-list__item">
                                     <a
                                         href="#"
-                                        class="t-link social-icon social-icon--alpha"
+                                        class="t-link social-icon-light social-icon-light--hover"
                                     >
                                         <span class="xlg-text">
                                             <i class="lab la-linkedin-in"></i>
@@ -590,20 +422,21 @@
         <!-- Footer End -->
 
         <!-- jquery -->
-        <script src="assets/js/jquery.js"></script>
+        <script src=" {{asset('assets/js/jquery.js')}}"></script>
         <!-- Bootstrap -->
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src=" {{asset('assets/js/bootstrap.bundle.min.js')}}"></script>
         <!-- Slick Slider  -->
-        <script src="assets/js/slick.min.js"></script>
+        <script src=" {{asset('assets/js/slick.min.js')}}"></script>
         <!-- Nice Select  -->
-        <script src="assets/js/jquery.nice-select.min.js"></script>
+        <script src=" {{asset('assets/js/jquery.nice-select.min.js')}}"></script>
         <!-- Owl carousel -->
-        <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="{{asset('assets/js/owl.carousel.min.js')}}"></script>
         <!-- Popup  -->
-        <script src="assets/js/magnafic-popup.js"></script>
+        <script src="{{asset('assets/js/magnafic-popup.js')}}"></script>
         <!-- Animation on Scroll  -->
-        <script src="assets/js/sal.js"></script>
+        <script src="{{asset('assets/js/sal.js')}}"></script>
         <!-- Main script -->
-        <script src="assets/js/main.js"></script>
+        <script src="{{asset('assets/js/main.js')}}"></script>
     </body>
 </html>
+

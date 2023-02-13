@@ -52,7 +52,7 @@
                         >
                             <div class="zl-brand">
                                 <a
-                                    href="index.html"
+                                    href="/"
                                     class="t-link w-100 text-lg-center"
                                 >
                                     <img
@@ -107,7 +107,7 @@
                                                             class="zl-mega-menu-1__list-item"
                                                         >
                                                             <a
-                                                                href="index.html"
+                                                                href="/"
                                                                 class="t-link zl-mega-menu-1__link"
                                                             >
                                                                 <span
@@ -130,7 +130,7 @@
                                                             class="zl-mega-menu-1__list-item"
                                                         >
                                                             <a
-                                                                href="home-2.html"
+                                                                href="home-2"
                                                                 class="t-link zl-mega-menu-1__link"
                                                             >
                                                                 <span
@@ -153,7 +153,7 @@
                                                             class="zl-mega-menu-1__list-item"
                                                         >
                                                             <a
-                                                                href="home-3.html"
+                                                                href="home-3"
                                                                 class="t-link zl-mega-menu-1__link"
                                                             >
                                                                 <span
@@ -176,7 +176,7 @@
                                                             class="zl-mega-menu-1__list-item"
                                                         >
                                                             <a
-                                                                href="home-4.html"
+                                                                href="home-4"
                                                                 class="t-link zl-mega-menu-1__link"
                                                             >
                                                                 <span
@@ -199,7 +199,7 @@
                                                             class="zl-mega-menu-1__list-item"
                                                         >
                                                             <a
-                                                                href="home-5.html"
+                                                                href="home-5"
                                                                 class="t-link zl-mega-menu-1__link"
                                                             >
                                                                 <span
@@ -228,7 +228,7 @@
                                                             class="zl-mega-menu-1__list-item"
                                                         >
                                                             <a
-                                                                href="home-6.html"
+                                                                href="home-6"
                                                                 class="t-link zl-mega-menu-1__link"
                                                             >
                                                                 <span
@@ -257,7 +257,7 @@
                                                             class="zl-mega-menu-1__list-item"
                                                         >
                                                             <a
-                                                                href="home-7.html"
+                                                                href="home-7"
                                                                 class="t-link zl-mega-menu-1__link"
                                                             >
                                                                 <span
@@ -304,7 +304,7 @@
                                                     <div class="zl-mega-menu-1__content">
                                                         <div class="zl-brand my-3">
                                                             <a
-                                                                href="index.html"
+                                                                href="/"
                                                                 class="t-link w-100 text-lg-center"
                                                             >
                                                                 <img
@@ -375,7 +375,7 @@
                                                         class="zl-nav__sub-item"
                                                     >
                                                         <a
-                                                            href="portfolio.html"
+                                                            href="portfolio"
                                                             class="t-link zl-nav__sub-link"
                                                         >
                                                             portfolio
@@ -385,7 +385,7 @@
                                                         class="zl-nav__sub-item"
                                                     >
                                                         <a
-                                                            href="portfolio-details.html"
+                                                            href="portfolio-details"
                                                             class="t-link zl-nav__sub-link"
                                                         >
                                                             portfolio details
@@ -406,7 +406,7 @@
                                                 <div class="zl-mega-menu-2">
                                                     <ul class="t-list zl-mega-menu-2__list">
                                                         <li class="zl-mega-menu-2__list-item">
-                                                            <a href="service-details.html" class="t-link zl-mega-menu-card">
+                                                            <a href="service-details" class="t-link zl-mega-menu-card">
                                                                 <div class="zl-card__icon--sm zl-card__icon--1 d-none d-lg-block mr-lg-3">
                                                                     <i class="las la-business-time"></i>
                                                                 </div>
@@ -421,7 +421,7 @@
                                                             </a>
                                                         </li>
                                                         <li class="zl-mega-menu-2__list-item">
-                                                            <a href="service-details.html" class="t-link zl-mega-menu-card">
+                                                            <a href="service-details" class="t-link zl-mega-menu-card">
                                                                 <div class="zl-card__icon--sm zl-card__icon--2 d-none d-lg-block mr-lg-3">
                                                                     <i class="las la-drafting-compass"></i>
                                                                 </div>
@@ -436,7 +436,7 @@
                                                             </a>
                                                         </li>
                                                         <li class="zl-mega-menu-2__list-item">
-                                                            <a href="service-details.html" class="t-link zl-mega-menu-card">
+                                                            <a href="service-details" class="t-link zl-mega-menu-card">
                                                                 <div class="zl-card__icon--sm zl-card__icon--3 d-none d-lg-block mr-lg-3">
                                                                     <i class="las la-chalkboard-teacher"></i>
                                                                 </div>
@@ -451,7 +451,7 @@
                                                             </a>
                                                         </li>
                                                         <li class="zl-mega-menu-2__list-item">
-                                                            <a href="service-details.html" class="t-link zl-mega-menu-card">
+                                                            <a href="service-details" class="t-link zl-mega-menu-card">
                                                                 <div class="zl-card__icon--sm zl-card__icon--4 d-none d-lg-block mr-lg-3">
                                                                     <i class="las la-photo-video"></i>
                                                                 </div>
@@ -466,7 +466,7 @@
                                                             </a>
                                                         </li>
                                                         <li class="zl-mega-menu-2__list-item">
-                                                            <a href="service-details.html" class="t-link zl-mega-menu-card">
+                                                            <a href="service-details" class="t-link zl-mega-menu-card">
                                                                 <div class="zl-card__icon--sm zl-card__icon--6 d-none d-lg-block mr-lg-3">
                                                                     <i class="lab la-laravel"></i>
                                                                 </div>
@@ -481,7 +481,7 @@
                                                             </a>
                                                         </li>
                                                         <li class="zl-mega-menu-2__list-item">
-                                                            <a href="service-details.html" class="t-link zl-mega-menu-card">
+                                                            <a href="service-details" class="t-link zl-mega-menu-card">
                                                                 <div class="zl-card__icon--sm zl-card__icon--5 d-none d-lg-block mr-lg-3">
                                                                     <i class="lab la-wordpress-simple"></i>
                                                                 </div>
@@ -495,12 +495,12 @@
                                                                 </div>
                                                             </a>
                                                         </li>
-                                                        
+
                                                     </ul>
                                                     <div class="zl-mega-menu-2__content">
                                                         <ul class="t-list zl-tertiary-menu">
                                                             <li class="zl-tertiary-menu__item">
-                                                                <a href="service-details.html" class="t-link zl-tertiary-menu__link">
+                                                                <a href="service-details" class="t-link zl-tertiary-menu__link">
                                                                     <span class="zl-tertiary-menu__icon">
                                                                         <i class="las la-globe"></i>
                                                                     </span>
@@ -510,7 +510,7 @@
                                                                 </a>
                                                             </li>
                                                             <li class="zl-tertiary-menu__item">
-                                                                <a href="service-details.html" class="t-link zl-tertiary-menu__link">
+                                                                <a href="service-details" class="t-link zl-tertiary-menu__link">
                                                                     <span class="zl-tertiary-menu__icon">
                                                                         <i class="las la-chart-pie"></i>
                                                                     </span>
@@ -520,7 +520,7 @@
                                                                 </a>
                                                             </li>
                                                             <li class="zl-tertiary-menu__item">
-                                                                <a href="service-details.html" class="t-link zl-tertiary-menu__link">
+                                                                <a href="service-details" class="t-link zl-tertiary-menu__link">
                                                                     <span class="zl-tertiary-menu__icon">
                                                                         <i class="las la-coffee"></i>
                                                                     </span>
@@ -540,7 +540,7 @@
                                                                     <span class="zl-mega-menu-card__title text-capitalize">
                                                                         123 256897 22
                                                                     </span>
-                                                                    
+
                                                                 </div>
                                                             </li>
                                                         </ul>
@@ -573,7 +573,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="about.html"
+                                                                    href="about"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     about us
@@ -583,7 +583,7 @@
                                                                 class="zl-nav__sub-item"
                                                             >
                                                                 <a
-                                                                    href="about-2.html"
+                                                                    href="about-2"
                                                                     class="t-link zl-nav__sub-link"
                                                                 >
                                                                     about
@@ -596,7 +596,7 @@
                                                         class="zl-nav__sub-item"
                                                     >
                                                         <a
-                                                            href="price.html"
+                                                            href="price"
                                                             class="t-link zl-nav__sub-link"
                                                         >
                                                             price table
@@ -606,7 +606,7 @@
                                                         class="zl-nav__sub-item"
                                                     >
                                                         <a
-                                                            href="faq.html"
+                                                            href="faq"
                                                             class="t-link zl-nav__sub-link"
                                                         >
                                                             FAQ
@@ -616,7 +616,7 @@
                                                         class="zl-nav__sub-item"
                                                     >
                                                         <a
-                                                            href="team.html"
+                                                            href="team"
                                                             class="t-link zl-nav__sub-link"
                                                         >
                                                             team member
@@ -626,7 +626,7 @@
                                                         class="zl-nav__sub-item"
                                                     >
                                                         <a
-                                                            href="process.html"
+                                                            href="process"
                                                             class="t-link zl-nav__sub-link"
                                                         >
                                                             work process
@@ -636,7 +636,7 @@
                                                         class="zl-nav__sub-item"
                                                     >
                                                         <a
-                                                            href="404.html"
+                                                            href="404"
                                                             class="t-link zl-nav__sub-link"
                                                         >
                                                             404
@@ -658,7 +658,7 @@
                                                         class="zl-nav__sub-item"
                                                     >
                                                         <a
-                                                            href="blog.html"
+                                                            href="blog"
                                                             class="t-link zl-nav__sub-link"
                                                         >
                                                             blog
@@ -668,7 +668,7 @@
                                                         class="zl-nav__sub-item"
                                                     >
                                                         <a
-                                                            href="blog-2.html"
+                                                            href="blog-2"
                                                             class="t-link zl-nav__sub-link"
                                                         >
                                                             blog sidebar
@@ -678,7 +678,7 @@
                                                         class="zl-nav__sub-item"
                                                     >
                                                         <a
-                                                            href="blog-details.html"
+                                                            href="blog-details"
                                                             class="t-link zl-nav__sub-link"
                                                         >
                                                             blog details
@@ -688,7 +688,7 @@
                                             </li>
                                             <li class="zl-nav__item">
                                                 <a
-                                                    href="contact.html"
+                                                    href="contact"
                                                     class="t-link zl-nav__link"
                                                 >
                                                     contact
@@ -1139,14 +1139,14 @@
                                         </div>
                                         <div class="project-card__body">
                                             <a
-                                                href="portfolio.html"
+                                                href="portfolio"
                                                 class="t-link text-uppercase font-weight-bold xsm-text t-link-alpha"
                                             >
                                                 web design
                                             </a>
                                             <h4 class="text-capitalize t-mt-10">
                                                 <a
-                                                    href="portfolio-details.html"
+                                                    href="portfolio-details"
                                                     class="t-link t-link--alpha"
                                                 >
                                                     Hosting Webiste Rank
@@ -1173,14 +1173,14 @@
                                         </div>
                                         <div class="project-card__body">
                                             <a
-                                                href="portfolio.html"
+                                                href="portfolio"
                                                 class="t-link text-uppercase font-weight-bold xsm-text t-link-primary"
                                             >
                                                 branding
                                             </a>
                                             <h4 class="text-capitalize t-mt-10">
                                                 <a
-                                                    href="portfolio-details.html"
+                                                    href="portfolio-details"
                                                     class="t-link t-link--alpha"
                                                 >
                                                     Hosting Webiste Rank
@@ -1207,14 +1207,14 @@
                                         </div>
                                         <div class="project-card__body">
                                             <a
-                                                href="portfolio.html"
+                                                href="portfolio"
                                                 class="t-link text-uppercase font-weight-bold xsm-text t-link-alpha"
                                             >
                                                 illustration
                                             </a>
                                             <h4 class="text-capitalize t-mt-10">
                                                 <a
-                                                    href="portfolio-details.html"
+                                                    href="portfolio-details"
                                                     class="t-link t-link--alpha"
                                                 >
                                                     Hosting Webiste Rank
@@ -1241,14 +1241,14 @@
                                         </div>
                                         <div class="project-card__body">
                                             <a
-                                                href="portfolio.html"
+                                                href="portfolio"
                                                 class="t-link text-uppercase font-weight-bold xsm-text t-link-primary"
                                             >
                                                 branding
                                             </a>
                                             <h4 class="text-capitalize t-mt-10">
                                                 <a
-                                                    href="portfolio-details.html"
+                                                    href="portfolio-details"
                                                     class="t-link t-link--alpha"
                                                 >
                                                     Hosting Webiste Rank
@@ -1275,14 +1275,14 @@
                                         </div>
                                         <div class="project-card__body">
                                             <a
-                                                href="portfolio.html"
+                                                href="portfolio"
                                                 class="t-link text-uppercase font-weight-bold xsm-text t-link-alpha"
                                             >
                                                 web design
                                             </a>
                                             <h4 class="text-capitalize t-mt-10">
                                                 <a
-                                                    href="portfolio-details.html"
+                                                    href="portfolio-details"
                                                     class="t-link t-link--alpha"
                                                 >
                                                     Hosting Webiste Rank
@@ -1309,14 +1309,14 @@
                                         </div>
                                         <div class="project-card__body">
                                             <a
-                                                href="portfolio.html"
+                                                href="portfolio"
                                                 class="t-link text-uppercase font-weight-bold xsm-text t-link-alpha"
                                             >
                                                 illustration
                                             </a>
                                             <h4 class="text-capitalize t-mt-10">
                                                 <a
-                                                    href="portfolio-details.html"
+                                                    href="portfolio-details"
                                                     class="t-link t-link--alpha"
                                                 >
                                                     Hosting Webiste Rank
@@ -2399,7 +2399,7 @@
                         <div class="col-md-6 col-xl-3 t-mb-30 mb-xl-0">
                             <div class="zl-brand t-mt-30">
                                 <a
-                                    href="index.html"
+                                    href="/"
                                     class="t-link w-100 text-center text-md-left"
                                 >
                                     <img
